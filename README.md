@@ -1,7 +1,11 @@
 hi, I'm Boma
+
 I'm currently gaining knowledge and trying to be a 100% dev
+
 I'm learning html, css, javascript
+
 I'm open to collaborations
+
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
